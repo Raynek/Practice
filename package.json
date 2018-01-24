@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Raynek/Practice#readme",
   "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-config-google": "^0.9.1",
     "eslint-config-standard": "^11.0.0-beta.0",
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-node": "^5.2.1",
